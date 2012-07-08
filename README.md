@@ -3,7 +3,7 @@ Awesome Print is a Ruby library that pretty prints Ruby objects in full color
 exposing their internal structure with proper indentation. Rails ActiveRecord
 objects and usage within Rails templates are supported via included mixins.
 
-This fork has modified the rendering of ActiveRecord::Relation options 
+This fork has modified the rendering of ActiveRecord::Relation instances 
 so that these objects are rendered as arrays of nicely rendered 
 ActiveRecord instances.  Normally, they are rendered as the huge 
 complicated objects that they really are.  However, that rendering is 
