@@ -17,6 +17,7 @@ end
 Gem::Specification.new do |s|
   s.name        = "awesome_print"
   s.version     = AwesomePrint.version
+  s.rubygems_version = "1.0.3"
 # s.platform    = Gem::Platform::RUBY
   s.authors     = "Michael Dvorkin"
   s.date        = Time.now.strftime("%Y-%m-%d")
